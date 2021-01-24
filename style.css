@@ -1,0 +1,56 @@
+html {
+	background-color: linear-gradient(#60ebeb 0%, #27ae60 100%);
+	text-align: center;
+}
+#h1{
+	text-align: center;
+    font-size: 200%;
+	color: dodgerblue;
+}
+.menu {
+	list-style: none;
+	font-family: sans-serif;
+	position: fixed;
+	top: 10px;
+	left:30px;
+	z-index: 50;
+	cursor: pointer;
+}
+
+.links {
+	float: left;
+	color: red;
+	padding-top: 5px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 5px;
+	font-family: fantasy;
+	font-size: 20px;
+}
+
+.links:hover {
+	background-color: black;
+}
+
+.picture {
+	width: 80%;
+}
+
+p {
+	font-size: 30px;
+}
+.games{
+	width:50%;
+}
+#games{
+	background-color: cornflowerblue;
+}
+#controller{
+	background-color:darkorange;
+}
+#more about ps4{
+	background-color:blueviolet;
+}
+#favourite game{
+	background-color: burlywood;
+}
